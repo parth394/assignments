@@ -1,0 +1,15 @@
+*.csv
+*.rar
+*.db
+*.txt
+*.png
+*.pkl
+*.jpeg
+*glove*
+*.zip
+*.doc*
+*.py
+*rvl-cdip-002*
+*cleaned_strings*
+
+
